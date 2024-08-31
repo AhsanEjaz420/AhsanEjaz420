@@ -21,7 +21,6 @@ Interests
 - Artificial Intelligence
 - Machine Learning
 - Data Science
-- [list any other interests]
 
 About this repository
 

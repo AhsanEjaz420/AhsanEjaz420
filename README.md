@@ -33,7 +33,7 @@ Feel free to explore my repository, and let's connect on GitHub! If you have any
 You can also find me on:
 
 - LinkedIn: [https://www.linkedin.com/in/ahsan-ejaz-a97a0a204/]
-- Email: [Ahsanejazbutt420@gmail.com]
+- Email: [Ahsanejaz1717@gmail.com]
 
 I hope you find something interesting in my repository!
 
